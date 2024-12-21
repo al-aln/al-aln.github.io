@@ -16,16 +16,13 @@ In Slime Souls, you play as a lovable slime who must navigate through treacherou
 
 ## Game Screenshots
 
-![Slime Souls][/assets/images/slime01.png]{: .shadow}
-Image courtesy of Scratch (game_link)
+![Slime Souls](/assets/images/slime01.png){: width="700" height="400" .normal }
 
-### Enemy Knight
-![Enemy Knight][/assets/images/slime02.png]{: .shadow}
-Image courtesy of Scratch (game_link)
+#### Enemy Knight
+![Enemy Knight](/assets/images/slime02.png){: width="700" height="400" .normal }
 
-### Final Boss
-![Final Boss][/assets/images/slime03.png]{: .shadow}
-Image courtesy of Scratch (game_link)
+#### Final Boss
+![Final Boss](/assets/images/slime03.png){: width="700" height="400" .normal }
 
 ## Gameplay
 
@@ -33,8 +30,6 @@ As you navigate through the levels, be sure to grab those coins and take down an
 
 ## Conclusion
 
-Slime Souls is a fun little game I made using Scratch. If you're interested in playing, be sure to check out my project on (game_link).
-
----
+Slime Souls is a fun little game I made using Scratch. If you're interested in playing, be sure to check out my project on [game_link].
 
 [game_link]: https://scratch.mit.edu/projects/1101286169/
