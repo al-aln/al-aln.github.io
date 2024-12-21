@@ -30,6 +30,6 @@ As you navigate through the levels, be sure to grab those coins and take down an
 
 ## Conclusion
 
-Slime Souls is a fun little game I made using Scratch. If you're interested in playing, be sure to check out my project on [game_link].
+Slime Souls is a fun little game I made using Scratch. If you're interested in playing, be sure to check out my project on [Scratch].
 
-[game_link]: https://scratch.mit.edu/projects/1101286169/
+[Scratch]: https://scratch.mit.edu/projects/1101286169/
